@@ -1,0 +1,15 @@
+body {
+	font-family: Meiryo;
+	padding: 20px;
+}
+dl{
+	padding: 0px;
+}
+dt{
+	font-weight: bold;
+}
+
+dd{
+	margin-left: 20px;
+	line-height: 30px;
+}
