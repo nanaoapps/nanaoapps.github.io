@@ -1,7 +1,42 @@
 body {
 	font-family: Meiryo;
-	padding: 20px;
+    text-align: center;
+    margin: 20px;
 }
+
+header {
+    display: flex;
+    justify-content: space-between;
+    max-width:100%;
+    margin-left: auto;
+    margin-right: auto;
+    flex-wrap: wrap;
+}
+
+image {
+    display: block;
+    max-width:100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+main {
+    display: block;
+    max-width:100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+footer {
+    display: block;
+    max-width:100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
 dl{
 	padding: 0px;
 }
@@ -13,3 +48,4 @@ dd{
 	margin-left: 20px;
 	line-height: 30px;
 }
+
